@@ -1,0 +1,27 @@
+<project name="Testing Of Maven">
+	<bannerLeft>
+		<name>Meh face</name>
+		<src>images/face.png</src><href>images/face.png</href>
+		
+		<alt>meh face</alt>
+		<title>Dis be meh face!</title>
+		<width>75px</width>
+		<height>75px</height></bannerLeft>
+	<bannerRight>
+		<name>testing out this stuff</name>
+		<src>images/EzrebComputing.gif</src><href>images/EzrebComputing.gif</href>
+		
+		<alt>EzrebComputing Logo</alt>
+		<title>EzrebComputing! :D</title>
+		<width>200px</width>
+		<height>50px</height></bannerRight>
+	<version position="right"></version>
+	<poweredBy>
+		<logo name="Maven" href="http://maven.apache.org/" img="http://maven.apache.org/images/logos/maven-feather.png"></logo></poweredBy>
+	<body>
+		<menu name="Navigation">
+			<item name="About" href="index.html"></item>
+			<item name="Info" href="project-info.html"></item>
+			<item href="project-summary.html" name="Project Summary"></item></menu>
+		<menu name="External Links">
+			<item name="Main Site" href=".."></item></menu></body></project>

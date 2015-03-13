@@ -1,0 +1,158 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<hotspot_log version='160 1' process='4320' time_ms='1426260709153'>
+<vm_version>
+<name>
+Java HotSpot(TM) 64-Bit Server VM
+</name>
+<release>
+17.0-b05-fastdebug
+</release>
+<info>
+Java HotSpot(TM) 64-Bit Server VM (17.0-b05-fastdebug) for windows-amd64 JRE (1.7.0-ea-fastdebug-b76), built on Nov 12 2009 01:51:45 by &quot;java_re&quot; with MS VC++ 8.0 (VS2005)
+</info>
+</vm_version>
+<vm_arguments>
+<args>
+-Dmaven.home=EMBEDDED -Dclassworlds.conf=C:\Users\bram.zerbe\Desktop\Programming\.metadata\.plugins\org.eclipse.m2e.launching\launches\m2conf2181364566378089808.tmp -Dfile.encoding=Cp1252 
+</args>
+<command>
+org.codehaus.plexus.classworlds.launcher.Launcher -B site
+</command>
+<launcher>
+SUN_STANDARD
+</launcher>
+<properties>
+java.vm.specification.version=1.0
+java.vm.specification.name=Java Virtual Machine Specification
+java.vm.specification.vendor=Sun Microsystems Inc.
+java.vm.version=17.0-b05-fastdebug
+java.vm.name=Java HotSpot(TM) 64-Bit Server VM
+java.vm.vendor=Sun Microsystems Inc.
+java.vm.info=mixed mode, sharing
+java.ext.dirs=C:\Users\bram.zerbe\Desktop\Programming\Java - Needed Stuff\JDK 1.7 x64\jdk1.7.0\fastdebug\jre\lib\ext;C:\WINDOWS\Sun\Java\lib\ext
+java.endorsed.dirs=C:\Users\bram.zerbe\Desktop\Programming\Java - Needed Stuff\JDK 1.7 x64\jdk1.7.0\fastdebug\jre\lib\endorsed
+sun.boot.library.path=C:\Users\bram.zerbe\Desktop\Programming\Java - Needed Stuff\JDK 1.7 x64\jdk1.7.0\fastdebug\jre\bin
+java.library.path=C:\Users\bram.zerbe\Desktop\Programming\Java - Needed Stuff\JDK 1.7 x64\jdk1.7.0\fastdebug\bin;.;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:/Program Files (x86)/Java/jre7/bin/client;C:/Program Files (x86)/Java/jre7/bin;C:/Program Files (x86)/Java/jre7/lib/i386;C:\Program Files\Common Files\Microsoft Shared\Windows Live;C:\Program Files (x86)\Common Files\Microsoft Shared\Windows Live;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Windows Live\Shared;C:\Program Files\Lenovo Fingerprint Reader\;C:\Program Files\Lenovo Fingerprint Reader\x86\;C:\Program Files\Lenovo Fingerprint Reader\;C:\Program Files\Lenovo Fingerprint Reader\x86\;C:\Program Files\Lenovo Fingerprint Reader\;C:\Program Files\Lenovo Fingerprint Reader\x86\;.\Common\Libraries;E:\KidsRuby\Git\cmd;C:\Users\bram.zerbe\KidsRuby\Git\cmd;C:\Users\bram.zerbe\AppData\Local\Google\Chrome\Application;C:\Program Files\Common Files\Microsoft Shared\Windows Live;C:\Program Files (x86)\Common Files\Microsoft Shared\Windows Live;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Windows Live\Shared;C:\Program Files\Lenovo Fingerprint Reader\;C:\Program Files\Lenovo Fingerprint Reader\x86\;C:\Program Files\Lenovo Fingerprint Reader\;C:\Program Files\Lenovo Fingerprint Reader\x86\;C:\Program Files\Lenovo Fingerprint Reader\;C:\Program Files\Lenovo Fingerprint Reader\x86\;.\Common\Libraries;C:\Users\bram.zerbe\AppData\Local\Programs\Git\cmd;C:\Users\bram.zerbe\AppData\Local\Spoon\Cmd;C:\Users\bram.zerbe\Desktop\eclipse;
+java.home=C:\Users\bram.zerbe\Desktop\Programming\Java - Needed Stuff\JDK 1.7 x64\jdk1.7.0\fastdebug\jre
+java.class.path=/C:/Users/bram.zerbe/Desktop/eclipse/plugins/org.eclipse.m2e.maven.runtime_1.5.0.20140605-2032/jars/plexus-classworlds-2.5.1.jar
+sun.boot.class.path=C:\Users\bram.zerbe\Desktop\Programming\Java - Needed Stuff\JDK 1.7 x64\jdk1.7.0\fastdebug\jre\lib\resources.jar;C:\Users\bram.zerbe\Desktop\Programming\Java - Needed Stuff\JDK 1.7 x64\jdk1.7.0\fastdebug\jre\lib\rt.jar;C:\Users\bram.zerbe\Desktop\Programming\Java - Needed Stuff\JDK 1.7 x64\jdk1.7.0\fastdebug\jre\lib\sunrsasign.jar;C:\Users\bram.zerbe\Desktop\Programming\Java - Needed Stuff\JDK 1.7 x64\jdk1.7.0\fastdebug\jre\lib\jsse.jar;C:\Users\bram.zerbe\Desktop\Programming\Java - Needed Stuff\JDK 1.7 x64\jdk1.7.0\fastdebug\jre\lib\jce.jar;C:\Users\bram.zerbe\Desktop\Programming\Java - Needed Stuff\JDK 1.7 x64\jdk1.7.0\fastdebug\jre\lib\charsets.jar;C:\Users\bram.zerbe\Desktop\Programming\Java - Needed Stuff\JDK 1.7 x64\jdk1.7.0\fastdebug\jre\classes
+maven.home=EMBEDDED
+classworlds.conf=C:\Users\bram.zerbe\Desktop\Programming\.metadata\.plugins\org.eclipse.m2e.launching\launches\m2conf2181364566378089808.tmp
+file.encoding=Cp1252
+sun.java.launcher=SUN_STANDARD
+</properties>
+</vm_arguments>
+<tty>
+<writer thread='4768'/>
+<dependency_failed type='leaf_type' ctxk='java/lang/IllegalArgumentException' witness='java/lang/NumberFormatException' stamp='1.827'/>
+<dependency_failed type='leaf_type' ctxk='java/io/ByteArrayOutputStream' witness='sun/security/util/DerOutputStream' stamp='7.661'/>
+<dependency_failed type='unique_concrete_method' x='java/util/Hashtable rehash ()V' witness='org/apache/commons/logging/impl/WeakHashtable' stamp='9.087'/>
+<dependency_failed type='leaf_type' ctxk='java/io/EOFException' witness='org/apache/xerces/impl/XMLEntityScanner$1' stamp='9.295'/>
+<dependency_failed type='leaf_type' ctxk='java/io/EOFException' witness='org/apache/xerces/impl/XMLEntityScanner$1' stamp='9.295'/>
+<dependency_failed type='unique_concrete_method' x='java/util/HashMap size ()I' witness='org/apache/commons/collections/FastHashMap' stamp='9.419'/>
+<dependency_failed type='unique_concrete_method' x='java/io/Reader read ([C)I' witness='org/apache/velocity/tools/view/ImportSupport$SafeClosingHttpURLConnectionReader' stamp='9.763'/>
+<statistics type='opto'>
+--- Compiler Statistics ---
+Methods seen: 6370  Methods parsed: 6370  Nodes created: 1524973
+Blocks parsed: 23987  Blocks seen: 24917
+30066 original NULL checks - 24246 elided (80%); optimizer leaves 5049,
+2712 made implicit (53%)
+CCP: 624  constants found: 15
+Total frameslots = 6636, Max frameslots = 68
+Inserted 0 spill loads, 0 spill stores, 0 mem-mem moves and 0 copies.
+Total load cost=      0, store cost =      0, mem-mem cost =  0.00, copy cost =     0.
+Adjusted spill cost =       0.
+Conservatively coalesced 4463 copies, 0 pairs, 28202 post alloc.
+Used cisc instruction  1318,  remained in register 9279
+Average allocation trips 1.712716
+High Pressure Blocks = 0, Low Pressure Blocks = 0
+Nops added 0 bytes to total of 1118790 bytes, for 0.00%
+Peephole: peephole rules applied: 0
+PhaseIdealLoop=2567, sum _unique=4425192
+</statistics>
+<statistics type='intrinsic'>
+Compiler intrinsic usage:
+    37 ( 5.2%) _hashCode (worked,virtual,nonvirtual)
+    75 (10.5%) _getClass (worked)
+    23 ( 3.2%) _clone (worked)
+    69 ( 9.7%) _min (worked)
+     5 ( 0.7%) _max (worked)
+    12 ( 1.7%) _identityHashCode (worked)
+    32 ( 4.5%) _nanoTime (worked)
+   193 (27.0%) _arraycopy (worked)
+     7 ( 1.0%) _currentThread (worked)
+    16 ( 2.2%) _isAssignableFrom (worked)
+     1 ( 0.1%) _getModifiers (worked)
+    11 ( 1.5%) _isArray (worked)
+     4 ( 0.6%) _isPrimitive (worked)
+     5 ( 0.7%) _getSuperclass (worked)
+     7 ( 1.0%) _getComponentType (worked)
+     1 ( 0.1%) _getClassAccessFlags (worked)
+     6 ( 0.8%) _getLength (worked)
+    10 ( 1.4%) _getCallerClass (worked,failed)
+     6 ( 0.8%) _newArray (worked)
+    47 ( 6.6%) _copyOf (worked)
+     7 ( 1.0%) _indexOf (worked)
+   100 (14.0%) _equals (worked)
+     0 ( 0.0%) _checkIndex (disabled)
+     2 ( 0.3%) _getObject (worked)
+     2 ( 0.3%) _getObjectVolatile (worked)
+    15 ( 2.1%) _getLong_raw (worked)
+    18 ( 2.5%) _putLong_raw (worked)
+     3 ( 0.4%) _compareAndSwapInt (worked)
+   714 (100.0%) total (worked,failed,disabled,virtual,nonvirtual)
+</statistics>
+<statistics type='deoptimization'>
+Deoptimization traps recorded:
+    95 (100.0%) total
+     null_check/make_not_entrant/checkcast: 4 (4.2%)
+  class_check/maybe_recompile/invokevirtual: 62 (65.3%)
+  class_check/maybe_recompile/invokeinterface: 8 (8.4%)
+     class_check/maybe_recompile/checkcast: 4 (4.2%)
+                  unloaded/reinterpret/new: 7 (7.4%)
+           unreached/reinterpret/ifnonnull: 7 (7.4%)
+              unreached/reinterpret/ifnull: 2 (2.1%)
+           unreached/reinterpret/if_acmpne: 1 (1.1%)
+</statistics>
+<statistics type='nmethod'>
+Statistics for 23 native nmethods:
+ N. total size  = 24952
+ N. relocation  = 2496
+ N. main code   = 15720
+Statistics for 624 bytecoded nmethods:
+ total in heap  = 3189704
+ relocation     = 101928
+ main code      = 1127840
+ stub code      = 52643
+ constants      = 10469
+ scopes data    = 577440
+ scopes pcs     = 961472
+ dependencies   = 6920
+ handler table  = 109928
+ nul chk table  = 25072
+ oops           = 39456
+Debug Data Chunks: 217649, shared 16934+131146, non-SP&apos;s elided 405
+PcDesc Statistics:  20172 queries, 7.67 comparisons per query
+  caches=624 queries=20172/0, hits=0+14433, tests=78439+76208, adds=5739
+</statistics>
+<statistics type='SharedRuntime'>
+   85 monitor enter slow
+  127 new instance requires GC
+  283 new array requires GC
+  112 inline cache miss in compiled
+    9 wrong method
+  109 unresolved static call site
+  232 unresolved virtual call site
+  725 unresolved opt virtual call site
+66305 slow partial subtype
+ 6640 byte array copies
+1352457 short array copies
+49484 int array copies
+337722 long array copies
+16212 find exception handler
+26405 rethrow handler
+</statistics>
+<tty_done stamp='13.771'/>
+</tty>
+<hotspot_log_done stamp='13.771'/>
+</hotspot_log>
